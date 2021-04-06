@@ -18,13 +18,11 @@
 
 <tr><td valign="top">
 
+[cloudsky_backend](https://github.com/minicloudsky/cloudsky_backend) A microservice framework based on django and docker compose .
+
 [EastMoneySpider](https://github.com/minicloudsky/EastMoneySpider) A financial data crawling and analysis project for [eastmoney ](http://eastmoney.com)
 
 [Leetcode practice](https://github.com/minicloudsky/Leetcode_Practice) Solutions for leetcode .
-
-[GolangStudy](https://github.com/minicloudsky/GolangStudy) My golang study code .
-
-[My blog](https://yawujia.cn)
 
 </td></tr>
 
