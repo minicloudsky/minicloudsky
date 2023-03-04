@@ -1,28 +1,21 @@
 ### Hi there 👋 I'm Minicloudsky
 
+Welcome to my GitHub profile. Some info about me:
 
-## My Stats
+![profile-views](https://komarev.com/ghpvc/?username=minicloudsky)
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minicloudsky&layout=compact&theme=radical">
+</p>
 
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=minicloudsky&show_icons=true&theme=radical">
+</p>
 
-<a align="left" href="https://yawujia.cn">
-    <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=minicloudsky&count_private=true&show_icons=true&theme=gruvbox" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minicloudsky&count_private=true&show_icons=true&layout=compact&theme=gruvbox" alt="languages" height="165">
-    </p>
-</a>
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=minicloudsky&theme=radical">
+</p>
 
-
-## My Primary Projects
-
-<table>
-<tr><td valign="top">
-    
-[EastMoneySpider](https://github.com/minicloudsky/EastMoneySpider) A financial data crawling and analysis project for [eastmoney ](http://eastmoney.com)
-
-[Sisyphus](https://github.com/minicloudsky/sisyphus) Database Auto DevOps and Management Service, The project is under construction .
-
-</td></tr>
-
-</table>
-
-
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=minicloudsky&column=7&theme=radical"/>
+</p>
